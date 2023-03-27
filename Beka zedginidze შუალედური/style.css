@@ -1,0 +1,60 @@
+header{
+    max-width: 1920px;
+    width: 100%;
+    padding: auto;
+    margin: 20px 20px 20px 20px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.navbar img{
+    width: 35px;
+}
+.navbar ul a{
+    padding-left: 48px;
+    text-decoration: none;
+    color: black;
+}
+.container a{
+    text-decoration: none;
+    background-color: green;
+    color: white;
+    padding: 13px ;
+    margin: 26px;
+    border-radius: 13px;
+}
+
+.main-nav{
+    max-width: 395px;
+    width: 330px;
+    height: 500px;
+    border: 2px;
+    background-color: rgb(247, 247, 246);
+    border-radius: 10%;
+    display: flex;    
+}
+
+
+
+.container-navigation{
+    display:flex wrap;
+    justify-content: center;
+    align-items: center;
+}
+.container-navigation span{
+    border: solid 1px;
+    border-color: rgb(41, 80, 185);
+
+}
+.mtavari-img{
+    max-width: 1225px;
+    width: 100%;
+    height: 751px;
+}
+.center{
+    width: 750px;
+    padding-left: 300px;
+
+}
